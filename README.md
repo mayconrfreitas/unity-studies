@@ -1,1 +1,1 @@
-# unity-studies
+# Unity Studies
